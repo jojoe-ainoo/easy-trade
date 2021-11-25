@@ -12,9 +12,9 @@ public class EasyTradeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EasyTradeApplication.class, args);
 	}
-
-	@GetMapping("/hello")
-		public String hello() {
-		return "Hello Trade";
-	}
+//
+//	@GetMapping("/hello")
+//		public String hello() {
+//		return "Hello Trade";
+//	}
 }
