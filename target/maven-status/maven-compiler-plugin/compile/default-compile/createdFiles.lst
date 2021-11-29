@@ -1,0 +1,5 @@
+com/easyout/easytrade/repositories/ClientRepository.class
+com/easyout/easytrade/controllers/ClientController.class
+com/easyout/easytrade/models/Client.class
+com/easyout/easytrade/services/ClientService.class
+com/easyout/easytrade/EasyTradeApplication.class
